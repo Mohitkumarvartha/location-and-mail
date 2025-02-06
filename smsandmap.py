@@ -6,9 +6,9 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Email credentials
-SENDER_EMAIL = "saieshneeli2k4@gmail.com"
-RECEIVER_EMAIL = "saisiva.neeli@gmail.com"
-PASSWORD = "dput xgqj rssp nkub"
+SENDER_EMAIL = 
+RECEIVER_EMAIL = 
+PASSWORD = 
 
 def send_email(description):
     """Send an emergency alert email with the given description."""
